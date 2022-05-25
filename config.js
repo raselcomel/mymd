@@ -85,12 +85,12 @@ global.pclg = colong_name
 global.aclg = colong_author
 //======================================//
 
-global.wm = '@rasel.ganz'
+global.wm = '@Jaka_ofc'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
-global.linkig = 'https://www.instagram.com/p/CH1A1c9J5pY/?utm_medium=copy_link'
+global.linkgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
+global.linkig = 'https://www.instagram.com/zetwo_botz'
 global.linkyt = ''
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
@@ -98,15 +98,15 @@ global.web1 = 'https://anu.rasell.repl.co'
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@rasel.ganz'
+global.bodlink = '@zetwo_botz'
 
 //========= Url Template Button =========//
 global.dtu = 'Group Bot WhatsApp'
-global.urlnya = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.urlnya = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 
 //========= Call Template Button =========//
 global.dtc = 'Add Me'
-global.nmbrnya = '+62 822-5604-8971'
+global.nmbrnya = '+62 857-8569-4474'
 
 
 //============ Proses Bot ============//
